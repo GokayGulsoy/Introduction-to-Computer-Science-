@@ -1,2 +1,21 @@
-# Introduction-to-Computer-Science-
-Repository for the CENG111 Course that I have taken at IZTECH
+# Introduction to Computer Science
+### Repository for CENG111 course that I have taken at IZTECH
+### This course covers the broad overview of subfields of Computer Science
+
+## Course Contents 
+1.  Introduction
+2.  Data Storage
+3.  Data Manipulation
+4.  Operating Systems
+5.  Networking and Internet
+6.  Algorithms
+7.  Midterm1
+8.  Programming Languages
+9.  Data Abstraction
+10. Software Engineering
+11. Database Systems
+12. Midterm2
+13. Artificial Intelligence
+14. Theory of Computation
+
+[Click this link to go to Glenn Brookshear's book (Computer Science an Overview)](Textbooks/Computer_Science_An_Overview-13th_Edition.pdf)
