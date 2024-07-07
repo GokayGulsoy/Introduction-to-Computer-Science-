@@ -18,4 +18,6 @@
 13. Artificial Intelligence
 14. Theory of Computation
 
-[Click this link to go to Glenn Brookshear's book (Computer Science an Overview)](Textbooks/Computer_Science_An_Overview-13th_Edition.pdf)
+[Click this link to go to Glenn Brookshear's book (Computer Science an Overview 13th edition)](Textbooks/Computer_Science_An_Overview-13th_Edition.pdf)
+
+[Click this link to go to Glenn Brookshear's book (Computer Science an Overview 11th edition)](Textbooks/Computer_Science_An_Overview-11th_Edition.pdf)
